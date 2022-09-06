@@ -1,0 +1,10 @@
+com\finance\domain\Controller\LoginController.class
+com\finance\domain\sqlRepo\MUserRepository.class
+com\finance\domain\util\ApplicationConstant.class
+com\finance\domain\config\OracleConfiguration.class
+com\finance\domain\Service\UserService.class
+com\finance\domain\Entity\User.class
+com\finance\domain\oracleRepo\OUserRepository.class
+com\finance\domain\ServiceImpl\UserServiceImpl.class
+com\finance\domain\config\MySQLConfiguration.class
+com\finance\domain\Authenticator\AuthenticatorApplication.class
